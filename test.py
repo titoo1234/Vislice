@@ -1,2 +1,5 @@
-def sok(n):
-    return True
+def soasdk(nfasfasd ): asdas
+  if 
+
+asdasfq  asda
+    returasdn True
